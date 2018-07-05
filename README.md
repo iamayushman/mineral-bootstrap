@@ -1,14 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Mineral Bootstrap
 
-You can use the [editor on GitHub](https://github.com/iamayushman/mineral-bootstrap/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Mineral Bootsrap is a beautiful css framework made  by costomising [Bootstrap 4.1 ](https://getbootstrap.com/) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Installation
+You can simply install Mineral Bootstrap by using the npm
 
 ```markdown
+npm install mineral-bootsrap
+
 Syntax highlighted code block
 
 # Header 1
