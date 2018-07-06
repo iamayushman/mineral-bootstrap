@@ -1,6 +1,6 @@
 ## Welcome to Mineral Bootstrap
 
-The Mineral Bootsrap is a beautiful css framework made  by costomising [Bootstrap 4.1 ](https://getbootstrap.com/) 
+The Mineral Bootsrap is a beautiful css framework made  by customizing [Bootstrap 4.1 ](https://getbootstrap.com/) 
 
 ### Installation
 You can simply install Mineral Bootstrap by using the npm
